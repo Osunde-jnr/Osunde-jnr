@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# Hi, I'm Osunde Samuel 👋
+# Hi, I'm Osunde Samuel 👋
 
 **Data Analyst & QA Engineer** passionate about turning data into insights and building reliable, high-quality software through structured testing.
 
